@@ -1,0 +1,17 @@
+[
+  {
+    "message": "The first bitcoin block ever mined is called the genesis block and was mined on January 3rd, 2009.",
+    "id": "000",
+    "tag": "HISTORY"
+  },
+  {
+    "message": "A block header is 80 bytes. All block headers (one for each block, and there are about 700,000 of them) together are about 56 MB in size.",
+    "id": "001",
+    "tag": "PROTOCOL"
+  },
+  {
+    "message": "A typical bitcoin block contains more than 2000 transactions.",
+    "id": "002",
+    "tag": "PROTOCOL"
+  }
+]
