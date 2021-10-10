@@ -27,7 +27,7 @@ async fn main() {
     };
 
     // read tweets file
-    let mut file = File::open("./tweets.json").unwrap();
+    let mut file = File::open("./tweets/season1.json").unwrap();
     let mut buff = String::new();
     file.read_to_string(&mut buff).unwrap();
     let tweets: Vec<Tweet> = serde_json::from_str(&buff).unwrap();
@@ -38,8 +38,8 @@ async fn main() {
     println!("{} {}-{}", tweet.message, tweet.id, tweet.tag);
 
     // publish tweet
-    let draft = DraftTweet::new("Running Bitcoin Bird.");
-    draft.send(&token).await.unwrap();
+    // let draft = DraftTweet::new("Running Bitcoin Bird.");
+    // draft.send(&token).await.unwrap();
 }
 
 #[derive(Deserialize)]
