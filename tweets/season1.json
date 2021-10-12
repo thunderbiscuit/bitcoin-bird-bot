@@ -13,5 +13,90 @@
     "message": "A typical bitcoin block contains more than 2000 transactions.",
     "id": "002",
     "tag": "PROTOCOL"
+  },
+  {
+    "message": "The bitcoin core source code repository has had 825 contributors since its inception in 2009.",
+    "id": "003",
+    "tag": "HISTORY"
+  },
+  {
+    "message": "The latest major version of bitcoin core is 0.22.",
+    "id": "004",
+    "tag": "PROTOCOL"
+  },
+  {
+    "message": "",
+    "id": "005",
+    "tag": ""
+  },
+  {
+    "message": "",
+    "id": "006",
+    "tag": ""
+  },
+  {
+    "message": "",
+    "id": "007",
+    "tag": ""
+  },
+  {
+    "message": "",
+    "id": "008",
+    "tag": ""
+  },
+  {
+    "message": "",
+    "id": "009",
+    "tag": ""
+  },
+  {
+    "message": "",
+    "id": "010",
+    "tag": ""
+  },
+  {
+    "message": "",
+    "id": "011",
+    "tag": ""
+  },
+  {
+    "message": "",
+    "id": "012",
+    "tag": ""
+  },
+  {
+    "message": "",
+    "id": "013",
+    "tag": ""
+  },
+  {
+    "message": "",
+    "id": "014",
+    "tag": ""
+  },
+  {
+    "message": "",
+    "id": "015",
+    "tag": ""
+  },
+  {
+    "message": "",
+    "id": "016",
+    "tag": ""
+  },
+  {
+    "message": "",
+    "id": "017",
+    "tag": ""
+  },
+  {
+    "message": "",
+    "id": "018",
+    "tag": ""
+  },
+  {
+    "message": "",
+    "id": "019",
+    "tag": ""
   }
 ]
